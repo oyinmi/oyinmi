@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwatomi Oyinkansola Taiwo
-- 👀 I’m interested in creating amazing product for the clients using React Native majorly and React.js sometimes.
+- 👀 I’m interested in creating amazing product for the clients using React Native and React.js.
 - 🌱 I’m currently learning GraphQL in order spread do more and be more valuable.
-- 💞️ I’m looking to collaborate on project and do more contributions to open sourxe.
+- 💞️ I’m looking to collaborate on project and do more contributions to open source.
 - 📫 How to reach me, tomisinatansuyi@gmail.com
 
 <!---
